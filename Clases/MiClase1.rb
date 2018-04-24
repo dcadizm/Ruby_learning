@@ -124,6 +124,10 @@ class Condiciones
 
 end
 
+# AND &&
+# OR  ||
+
+
 
 
 
